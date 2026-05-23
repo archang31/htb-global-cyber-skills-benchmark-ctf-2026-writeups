@@ -42,8 +42,6 @@ Each challenge folder follows this layout:
 ```
 <category>/<challenge-name>/
   README.md       - Polished writeup: Summary, Walkthrough, Key Findings, Lessons Learned
-  work/           - Solve scripts and helper tools used during the solve
-  screenshots/    - Images referenced in the writeup (if applicable)
 ```
 
 Challenge-provided artifacts (binaries, archives, PCAPs, disk images) are not committed to this repository due to file size and licensing. Each writeup lists what was provided.
