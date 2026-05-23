@@ -41,7 +41,7 @@ Each challenge folder follows this layout:
 
 ```
 <category>/<challenge-name>/
-  solution.md     - Polished writeup: Summary, Walkthrough, Key Findings, Lessons Learned
+  README.md       - Polished writeup: Summary, Walkthrough, Key Findings, Lessons Learned
   work/           - Solve scripts and helper tools used during the solve
   screenshots/    - Images referenced in the writeup (if applicable)
 ```
@@ -54,40 +54,40 @@ Challenge-provided artifacts (binaries, archives, PCAPs, disk images) are not co
 
 | Challenge | Category | Status |
 |-----------|----------|--------|
-| [Lotus Registry](ai/lotus-registry/solution.md) | AI | Solved |
-| [Grant Registry](blockchain/grant-registry/solution.md) | Blockchain | Solved |
-| [Exposed Supply](cloud/exposed-supply/solution.md) | Cloud | Solved |
-| [Ghost Access](cloud/ghost-access/solution.md) | Cloud | Solved |
-| [Privilege Chain](cloud/privilege-chain/solution.md) | Cloud | Solved |
-| [Cascade Depth](coding/cascade-depth/solution.md) | Coding | Solved |
-| [Checksum Mismatch](coding/checksum-mismatch/solution.md) | Coding | Solved |
-| [Choke Point](coding/choke-point/solution.md) | Coding | Solved |
-| [Incident Window](coding/incident-window/solution.md) | Coding | Solved |
-| [Surge Protocol](coding/surge-protocol/solution.md) | Coding | Solved |
-| [Once or Nothing](crypto/once-or-nothing/solution.md) | Cryptography | Solved |
-| [Pow Pow](crypto/pow-pow/solution.md) | Cryptography | Solved |
-| [Twice or Nothing](crypto/twice-or-nothing/solution.md) | Cryptography | Solved |
-| [COMfortable Exfiltration](forensics/comfortable-exfiltration/solution.md) | Forensics | Solved |
-| [Open Wound](forensics/open-wound/solution.md) | Forensics | Solved |
-| [Stay Hydrated](forensics/stay-hydrated/solution.md) | Forensics | Solved |
-| [The Gilded Ghost](forensics/the-gilded-ghost/solution.md) | Forensics | Solved |
-| [Trust and Betrayal](forensics/trust-and-betrayal/solution.md) | Forensics | Solved |
-| [Orion](fullpwn/orion/solution.md) | FullPwn | Solved |
-| [NECVISION](hardware/necvision/solution.md) | Hardware | Solved |
-| [VoltGrid CSMS](hardware/voltgrid-csms/solution.md) | Hardware | Solved |
-| [Sector Blackout](ics/sector-blackout/solution.md) | ICS | Solved |
-| [Watermark](ml/watermark/solution.md) | Machine Learning | Solved |
-| [Flashpoint](pwn/flashpoint/solution.md) | Pwn | Solved |
-| [Relay](pwn/relay/solution.md) | Pwn | Solved |
-| [Unverified Patch](pwn/unverified-patch/solution.md) | Pwn | Solved |
-| [Ghost Splicer](quantum/ghost-splicer/solution.md) | Quantum | Solved |
-| [Operator Silence](quantum/operator-silence/solution.md) | Quantum | Solved |
-| [Dudsat](reversing/dudsat/solution.md) | Reverse Engineering | Solved |
-| [Sysprobe](reversing/sysprobe/solution.md) | Reverse Engineering | Solved |
-| [Ariadne's Hand](secure-coding/ariadnes-hand/solution.md) | Secure Coding | Solved |
-| [Le Paradis et L'Enfer](secure-coding/le-paradis-et-lenfer/solution.md) | Secure Coding | Solved |
-| [The Dark Night](secure-coding/the-dark-night/solution.md) | Secure Coding | Solved |
-| [Trust Fall](web/trust-fall/solution.md) | Web | Solved |
+| [Lotus Registry](ai/lotus-registry/README.md) | AI | Solved |
+| [Grant Registry](blockchain/grant-registry/README.md) | Blockchain | Solved |
+| [Exposed Supply](cloud/exposed-supply/README.md) | Cloud | Solved |
+| [Ghost Access](cloud/ghost-access/README.md) | Cloud | Solved |
+| [Privilege Chain](cloud/privilege-chain/README.md) | Cloud | Solved |
+| [Cascade Depth](coding/cascade-depth/README.md) | Coding | Solved |
+| [Checksum Mismatch](coding/checksum-mismatch/README.md) | Coding | Solved |
+| [Choke Point](coding/choke-point/README.md) | Coding | Solved |
+| [Incident Window](coding/incident-window/README.md) | Coding | Solved |
+| [Surge Protocol](coding/surge-protocol/README.md) | Coding | Solved |
+| [Once or Nothing](crypto/once-or-nothing/README.md) | Cryptography | Solved |
+| [Pow Pow](crypto/pow-pow/README.md) | Cryptography | Solved |
+| [Twice or Nothing](crypto/twice-or-nothing/README.md) | Cryptography | Solved |
+| [COMfortable Exfiltration](forensics/comfortable-exfiltration/README.md) | Forensics | Solved |
+| [Open Wound](forensics/open-wound/README.md) | Forensics | Solved |
+| [Stay Hydrated](forensics/stay-hydrated/README.md) | Forensics | Solved |
+| [The Gilded Ghost](forensics/the-gilded-ghost/README.md) | Forensics | Solved |
+| [Trust and Betrayal](forensics/trust-and-betrayal/README.md) | Forensics | Solved |
+| [Orion](fullpwn/orion/README.md) | FullPwn | Solved |
+| [NECVISION](hardware/necvision/README.md) | Hardware | Solved |
+| [VoltGrid CSMS](hardware/voltgrid-csms/README.md) | Hardware | Solved |
+| [Sector Blackout](ics/sector-blackout/README.md) | ICS | Solved |
+| [Watermark](ml/watermark/README.md) | Machine Learning | Solved |
+| [Flashpoint](pwn/flashpoint/README.md) | Pwn | Solved |
+| [Relay](pwn/relay/README.md) | Pwn | Solved |
+| [Unverified Patch](pwn/unverified-patch/README.md) | Pwn | Solved |
+| [Ghost Splicer](quantum/ghost-splicer/README.md) | Quantum | Solved |
+| [Operator Silence](quantum/operator-silence/README.md) | Quantum | Solved |
+| [Dudsat](reversing/dudsat/README.md) | Reverse Engineering | Solved |
+| [Sysprobe](reversing/sysprobe/README.md) | Reverse Engineering | Solved |
+| [Ariadne's Hand](secure-coding/ariadnes-hand/README.md) | Secure Coding | Solved |
+| [Le Paradis et L'Enfer](secure-coding/le-paradis-et-lenfer/README.md) | Secure Coding | Solved |
+| [The Dark Night](secure-coding/the-dark-night/README.md) | Secure Coding | Solved |
+| [Trust Fall](web/trust-fall/README.md) | Web | Solved |
 
 ---
 
